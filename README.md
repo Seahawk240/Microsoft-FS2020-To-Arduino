@@ -12,3 +12,6 @@ The programm is completely free! But if you like what you see and want to contri
 
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=393N836S9BLX4)
+
+
+![alt text](https://repository-images.githubusercontent.com/319487168/5b37f180-441f-11eb-9a90-4941d7a58d07)
