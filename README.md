@@ -18,4 +18,4 @@ The programm is completely free! But if you like what you see and want to contri
 
 
 
-![alt text](https://repository-images.githubusercontent.com/319487168/5b37f180-441f-11eb-9a90-4941d7a58d07)
+![alt text](https://repository-images.githubusercontent.com/319487168/a02df780-4b86-11eb-9174-3fb26d310595)
