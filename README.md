@@ -1,6 +1,9 @@
 # Microsoft-FS2020-To-Arduino
 A Simple Program which enables communication between a Serial Device (like an Arduino) and the Flight Simulator 2020
 
+![alt text](https://user-images.githubusercontent.com/75649854/107162680-3be02e00-69a5-11eb-81bf-a947f9bedb74.png)
+
+
 Just unpack the Zip, copy the programm to wherever you like and start it. Help Pages which explain the functionality of the programm 
 are included in the Programm itself and will be updated if needed. For Feedback or Bug reports, just check out the "Issues" Page on my Git-Hub page:
 Thanks for participating! :)
