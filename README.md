@@ -21,4 +21,4 @@ The programm is completely free! But if you like what you see and want to contri
 
 
 
-![alt text](https://repository-images.githubusercontent.com/319487168/d064eb00-8daf-11eb-98aa-cb86ca5e60fe)
+![alt text](https://repository-images.githubusercontent.com/319487168/e18cb500-c925-11eb-91be-8cbee99cacf7)
